@@ -39,5 +39,24 @@ This project is a complete Flutter + Firebase example demonstrating:
 
 ---
 
+## 📁 Folder Structure
+```
+lib/
+┣ models/
+┃ ┗ product_model.dart
+┣ providers/
+┃ ┗ cart_provider.dart
+┣ screens/
+┃ ┣ splash_screen.dart
+┃ ┣ login_screen.dart
+┃ ┣ signup_screen.dart
+┃ ┣ home_screen.dart
+┃ ┣ product_detail_screen.dart
+┃ ┗ cart_screen.dart
+┣ widgets/
+┃ ┗ product_tile.dart
+┣ firebase_options.dart
+┗ main.dart
+
 
 
